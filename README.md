@@ -11,7 +11,7 @@
 I’m a passionate Software Engineer experienced in building secure and scalable web applications using the **MERN stack**.  
 My focus is on designing practical, high-performance solutions that enhance usability and reliability.
 
-- 💼 Currently working as **Software Engineer at Skylan Information (Noida)**
+- 💼 Currently working as **Software Engineer at Skylan Information**
 - 🧠 Previously worked with **Weblozy Software** and **Offshore Marketers**
 - 🔭 Building **Vibra**, a privacy-first social media platform
 - 🌱 Currently learning **Next.js, TypeScript, and Cloud Deployment**
